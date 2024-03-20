@@ -1,0 +1,34 @@
+[
+  {
+    "title": "FINEXA",
+    "imageSrc": "projects/project.png",
+    "description": "Web application for efficient financial management ensuring authentication.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB"
+    ],
+    "source": "https://github.com/AkshithaCheruku/FINEXA"
+  },
+  {
+    "title": "PORTFOLIO",
+    "imageSrc": "projects/project.png",
+    "description": " A React portfolio web app provides dynamic, immersive showcases for professional achievements and projects.",
+    "skills": [
+      "React"
+    ],
+    "source": "https://github.com/AkshithaCheruku/PORTFOLIO"
+  },
+  {
+    "title": "OCRBillDetection",
+    "imageSrc": "projects/project.png",
+    "description": "Extracted information like bill amount, category, and date, resulting in a streamlined bill processing workflow",
+    "skills": [
+      "OpenCV",
+      "Tesseract"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/AkshithaCheruku/OCRBillDetection"
+  }
+]
